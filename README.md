@@ -9,8 +9,7 @@ Animations for use on the command line in Python. If ever you wanted to make mun
 
 ### Use:
 
-
-You can use eithe ra list or a .ani file
+You can use either an .ani or a list to animate. e.g.:
 
 ````
 import anicli
@@ -25,7 +24,7 @@ anicli.animate(happy,0.5)
 
 ### .ani files
 
-An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in the __ani_files__ folder. After spexifying the dimension of your animation, the divider is a simple *******. For example, this is 3 frames of a 1x3 animation:
+An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in the __ani_files__ folder. The divider between frames is a simple *******. For example, these are 3 frames of a 1x3 animation:
 ````
 ._.
 *******
