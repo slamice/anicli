@@ -22,7 +22,7 @@ happy = ['._.','^_^','._.']
 anicli.animate(happy,0.5)
 ````
 
-### .ani files
+### .Ani files:
 
 An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in the __ani_files__ folder. The divider between frames is a simple *******. For example, these are 3 frames of a 1x3 animation:
 ````
