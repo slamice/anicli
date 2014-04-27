@@ -26,10 +26,11 @@ anicli.animate(happy,0.5)
 .Ani files
 ####
 
-An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in the __ani_files__ folder. After spexifying the dimension of your animation, the divider is a simple +++++++. For example, this is 3 frames of a 1x3 animation:
-
+An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in the __ani_files__ folder. After spexifying the dimension of your animation, the divider is a simple *******. For example, this is 3 frames of a 1x3 animation:
+````
 ._.
-+++++++
+*******
 ^_^
-+++++++
+*******
 ._.
+````
