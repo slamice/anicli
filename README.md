@@ -1,10 +1,11 @@
 anicli
 =========
 
-Animations for use on the command line in Python. If ever you wanted to make mundane tasks on the command line a bit more enjoyable, then you've found the right repo!
+Animations for use on the command line in Python. If ever you wanted to make mundane tasks on the command line a bit more enjoyable, then you've found the right repo! These are perfect for:
 
 1. Progress bars
 2. Pre/Post display of ReadMe or help options
+3. Command line email (one day?!)
 
 Use:
 ####
@@ -25,10 +26,10 @@ anicli.animate(happy,0.5)
 .Ani files
 ####
 
-An animations is loaded via an **.ani** file. Many **.ani** files are stored in the **ani_files** folder. After spexifying the dimension of your animation, the divider is a simple *****. For example, this is 3 frames of a 1x3 animation:
+An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in the __ani_files__ folder. After spexifying the dimension of your animation, the divider is a simple +++++++. For example, this is 3 frames of a 1x3 animation:
 
 ._.
-*****
++++++++
 ^_^
-*****
++++++++
 ._.
