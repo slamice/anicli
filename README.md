@@ -32,3 +32,6 @@ An animations is loaded via an __.ani__ file. Many __.ani__ files are stored in 
 *******
 ._.
 ````
+### To come:
+- Actual implemenation
+- Color
